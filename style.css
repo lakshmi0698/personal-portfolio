@@ -1,0 +1,83 @@
+/* Global styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #1f2937;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+/* Section styling */
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+/* About section image */
+section img {
+    display: block;
+    margin: 15px auto;
+    border-radius: 50%;
+}
+
+/* Flexbox for skills list */
+section ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+}
+
+section ul li {
+    background-color: #2563eb;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 20px;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+/* Hover effect (BONUS) */
+section ul li:hover {
+    background-color: #1e40af;
+    transform: scale(1.1);
+}
+
+/* Contact links */
+section a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+section a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    section ul {
+        justify-content: center;
+    }
+
+    body {
+        font-size: 16px;
+    }
+}
