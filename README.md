@@ -1,49 +1,113 @@
-# Personal Portfolio Website 🌟
+# Lakshmi Lavanya N - Personal Portfolio 🌟
 
-A modern, responsive personal portfolio website showcasing skills, projects, and contact information. Built with HTML5, CSS3, and vanilla JavaScript.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://lakshmi0698.github.io/personal-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-lakshmi0698-blue)](https://github.com/lakshmi0698)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/lakshmi-lavanya-n-35a66b289/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116)](https://leetcode.com/u/lakshmilavanya292/)
 
-![Portfolio Preview](https://via.placeholder.com/800x400/6366f1/ffffff?text=Portfolio+Preview)
+> Passionate AI/ML Engineering student specializing in Software Development, Data Structures, and Machine Learning Systems
 
-## 📋 Table of Contents
+## 👋 About Me
 
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+I'm Lakshmi Lavanya N, an Artificial Intelligence and Machine Learning Engineering student at **RNS Institute of Technology, Bangalore**. I'm passionate about building scalable, optimized solutions and developing end-to-end applications that create real-world impact.
 
-## ✨ Features
+- 🎓 **Education**: B.E. in CSE (AIML) - CGPA: 8.80/10.00
+- 📍 **Location**: Bangalore, Karnataka, India
+- 📧 **Email**: lakshmilavanya292@gmail.com
+- 📱 **Phone**: +91 7795952603
+- 💼 **LinkedIn**: [lakshmi-lavanya-n-35a66b289](https://www.linkedin.com/in/lakshmi-lavanya-n-35a66b289/)
+- 💻 **GitHub**: [lakshmi0698](https://github.com/lakshmi0698)
+- 🧩 **LeetCode**: [lakshmilavanya292](https://leetcode.com/u/lakshmilavanya292/)
 
-- **Responsive Design**: Fully responsive layout that works on desktop, tablet, and mobile devices
-- **Modern UI/UX**: Clean and professional design with smooth animations
-- **Interactive Navigation**: Sticky navigation bar with smooth scrolling
-- **Skills Showcase**: Animated progress bars to display technical skills
-- **Project Gallery**: Grid layout to showcase your best work
-- **Contact Form**: Functional contact form for visitor inquiries
-- **Social Media Links**: Easy access to your social profiles
-- **Cross-browser Compatible**: Works on all modern browsers
-- **Performance Optimized**: Fast loading times with minimal dependencies
+## 🚀 Featured Projects
 
-## 🚀 Demo
+### 🍎 NutriScan AI: Fruit Analytics Platform
+**Tech Stack**: Python, Streamlit, XGBoost, K-Means, Pandas, Matplotlib, MySQL
 
-Visit the live demo: [Your Portfolio URL](https://yourusername.github.io/personal-portfolio/)
+A full-stack AI-driven platform to compare Indian vs. imported fruits based on nutrients, price, and carbon footprint, promoting local produce.
 
-## 🛠️ Technologies Used
+- ✅ Implemented **XGBoost** and **K-Means** for personalized fruit recommendations
+- ✅ Improved fruit classification accuracy by **15%** using XGBoost optimization
+- ✅ Built interactive **Streamlit dashboard** deployed on **Google Cloud**
+- ✅ Integrated **MySQL** for structured data management
 
-- **HTML5**: Semantic markup for better SEO and accessibility
-- **CSS3**: Modern styling with flexbox and grid layouts
-- **JavaScript (ES6+)**: Interactive functionality and animations
-- **Font Awesome**: Icon library for social media and UI elements
-- **Git**: Version control
-- **GitHub Pages**: Hosting and deployment
+---
 
-## 📁 Project Structure
+### 🔒 Cyber Threat Detection Using Machine Learning
+**Tech Stack**: Python, Isolation Forest, Local Outlier Factor, Unsupervised Learning
+
+Automated unsupervised anomaly detection model to identify cyber threats in credit card datasets.
+
+- ✅ Developed anomaly detection using **Isolation Forest** and **Local Outlier Factor**
+- ✅ Enhanced detection precision, reducing **false positives by 12%**
+- ✅ Applied **ML pipelines** for real-time threat detection and proactive mitigation
+
+---
+
+### 🍺 Alcohol Detection Using MP3 Sensor
+**Tech Stack**: 8051 Microcontroller, Embedded Systems
+
+Safety device using MP3 sensor to detect alcohol concentrations with buzzer alerts for driver safety and workplace monitoring.
+
+- 🏆 **Won 1st Prize** at college-level ideathon
+- ✅ Designed for **driver safety** and **workplace monitoring** applications
+- ✅ Gained hands-on experience in **embedded systems** and **hardware-software integration**
+
+## 💻 Technical Skills
+
+### Languages
+- C++
+- Python
+- SQL
+- HTML
+- CSS
+
+### Tools & Frameworks
+- Google Colab
+- Flask
+- Git
+- GitHub
+- Streamlit
+
+### Databases
+- MongoDB
+- MySQL
+
+### Core Competencies
+- Machine Learning & Artificial Intelligence
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Operating Systems & DBMS
+- Networking & System Design Basics
+- Problem Solving & Complexity Analysis
+- UNIX
+
+## 🏆 Achievements
+
+- 🥇 **1st Prize** - IEEE YESIST12 PRELIMS (Open House Project Expo) - 150+ participants
+- 🥈 **2nd Prize** - AI-IDEA (Project Expo) - 100+ participants
+
+## 📜 Certifications
+
+- ✅ Introduction to Artificial Intelligence
+- ✅ Introduction to Deep Learning
+
+## 🎯 Involvement & Activities
+
+### Technical Clubs
+- 🔧 **Club Member** at InnovAlt-ON (Tech Club)
+- 🎭 **Club Member** at AMURA (Cultural Club)
+
+### Sports & Leadership
+Actively participated in:
+- 🏸 Badminton
+- 🎯 Carrom
+- ⚽ Football
+- 🏀 Basketball
+
+Fostering teamwork and leadership through competitive sports.
+
+## 📂 Project Structure
 
 ```
 personal-portfolio/
@@ -59,171 +123,48 @@ personal-portfolio/
 │   └── script.js          # JavaScript functionality
 │
 ├── images/
-│   ├── project1.jpg       # Project screenshots
-│   ├── project2.jpg
-│   └── project3.jpg
+│   └── profile.png        # Profile image
 │
 └── assets/
-    ├── icons/             # Custom icons
-    └── documents/
-        └── resume.pdf     # Downloadable resume
+    └── resume.pdf         # Downloadable resume
 ```
 
-## 📦 Installation
+## 🌐 Live Portfolio
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/personal-portfolio.git
-   ```
+Visit my portfolio: **[https://lakshmi0698.github.io/personal-portfolio/](https://lakshmi0698.github.io/personal-portfolio/)**
 
-2. **Navigate to the project directory**
-   ```bash
-   cd personal-portfolio
-   ```
+## 🤝 Connect With Me
 
-3. **Open in your browser**
-   - Simply open `index.html` in your preferred web browser
-   - Or use a local development server:
-   ```bash
-   # Using Python 3
-   python -m http.server 8000
-   
-   # Using Node.js (with http-server)
-   npx http-server
-   ```
+I'm always interested in connecting with fellow developers, discussing AI/ML projects, or exploring collaboration opportunities!
 
-4. **Visit** `http://localhost:8000` in your browser
+- 📧 **Email**: [lakshmilavanya292@gmail.com](mailto:lakshmilavanya292@gmail.com)
+- 💼 **LinkedIn**: [lakshmi-lavanya-n-35a66b289](https://www.linkedin.com/in/lakshmi-lavanya-n-35a66b289/)
+- 🐙 **GitHub**: [@lakshmi0698](https://github.com/lakshmi0698)
+- 🧩 **LeetCode**: [lakshmilavanya292](https://leetcode.com/u/lakshmilavanya292/)
+- 📞 **Phone**: +91 7795952603
 
-## 💡 Usage
+## 📄 Resume
 
-### Running Locally
+Download my latest resume: [📥 Resume.pdf](assets/resume.pdf)
 
-1. Download or clone the repository
-2. Open `index.html` in your web browser
-3. Navigate through different sections using the navigation menu
+## 📊 GitHub Stats
 
-### Viewing the Project
+![Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmi0698&show_icons=true&theme=radical)
 
-- **Home**: Introduction and call-to-action buttons
-- **About**: Brief description about yourself
-- **Skills**: Technical skills with progress indicators
-- **Projects**: Portfolio of your work
-- **Contact**: Get in touch form and contact information
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi0698&layout=compact&theme=radical)
 
-## 🎨 Customization
+## 💡 Professional Summary
 
-### Personal Information
-
-Edit `index.html` and update:
-- Name in the hero section
-- About me description
-- Contact information
-- Social media links
-
-### Skills
-
-Modify the skills section in `index.html`:
-```html
-<div class="skill-card">
-    <i class="fab fa-your-icon"></i>
-    <h3>Your Skill</h3>
-    <div class="progress-bar">
-        <div class="progress" style="width: 85%"></div>
-    </div>
-</div>
-```
-
-### Projects
-
-Add your projects in the projects section:
-```html
-<div class="project-card">
-    <div class="project-image">
-        <img src="images/your-project.jpg" alt="Project Name">
-    </div>
-    <div class="project-info">
-        <h3>Project Name</h3>
-        <p>Description of your project</p>
-        <div class="project-links">
-            <a href="github-link" class="btn btn-small">Code</a>
-            <a href="demo-link" class="btn btn-small">Demo</a>
-        </div>
-    </div>
-</div>
-```
-
-### Colors
-
-Customize the color scheme in `css/style.css`:
-```css
-:root {
-    --primary-color: #6366f1;
-    --secondary-color: #8b5cf6;
-    /* Add your custom colors */
-}
-```
-
-### Resume
-
-Replace `assets/documents/resume.pdf` with your own resume.
-
-## 🌐 Deployment
-
-### GitHub Pages
-
-1. **Push to GitHub**
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   ```
-
-2. **Enable GitHub Pages**
-   - Go to your repository settings
-   - Scroll to "Pages" section
-   - Select source branch (usually `main`)
-   - Click Save
-
-3. **Access your site** at `https://yourusername.github.io/personal-portfolio/`
-
-### Alternative Hosting Options
-
-- **Netlify**: Drag and drop deployment
-- **Vercel**: Git-based deployment
-- **Surge**: Command-line deployment
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-**Lakshmi**
-
-- Email: lakshmi@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
-- Portfolio: [Your Website](https://yourwebsite.com)
-
-## 🙏 Acknowledgments
-
-- Font Awesome for icons
-- Google Fonts for typography
-- Inspiration from various portfolio designs
-- The open-source community
+Passionate Artificial Intelligence and Machine Learning Engineering student with strong foundations in Software Development and Data Structures. Skilled in designing scalable, optimized solutions using C++, Python, and Object-Oriented Programming. Experienced in developing end-to-end applications and machine learning systems using Flask, MySQL, and Cloud platforms, with a focus on performance, efficiency, and real-world impact.
 
 ---
 
-**Note**: Remember to replace placeholder content with your actual information, projects, and links.
+<div align="center">
 
-Made with ❤️ by Lakshmi
+### 🌟 If you like my work, feel free to star ⭐ this repository!
+
+Made with ❤️ by **Lakshmi Lavanya N**
+
+**© 2026 Lakshmi Lavanya N. All Rights Reserved.**
+
+</div>
