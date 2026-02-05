@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Lakshmi Lavanya N | AI/ML Portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -29,7 +29,10 @@
         <li><a href="#contact">Contact</a></li>
     </ul>
     <div class="nav-actions">
-        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark/light mode">☀️</button>
+        <button class="theme-toggle" aria-label="Toggle dark/light mode" title="Toggle theme">
+            <span class="theme-icon sun">☀️</span>
+            <span class="theme-icon moon">🌙</span>
+        </button>
         <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
     </div>
 </nav>
@@ -51,7 +54,7 @@
     </div>
     <div class="hero-visual">
         <div class="glow-circle"></div>
-        <img src="assets/images/profile.png" alt="Profile image of Lakshmi Lavanya N" class="hero-photo">
+        <img src="profile.png" alt="Profile image of Lakshmi Lavanya N" class="hero-photo">
     </div>
 </header>
 
@@ -304,9 +307,6 @@
     </div>
 </section>
 
-<!-- ─── SCROLL TO TOP BUTTON ─── -->
-<button id="scroll-top" class="scroll-top" aria-label="Scroll to top">↑</button>
-
 <!-- ─── FOOTER ─── -->
 <footer class="footer">
     <div class="footer-inner">
@@ -318,9 +318,9 @@
         </div>
     </div>
 </footer>
- 
-<!-- ─── JAVASCRIPT ─── -->
-<script src="js/script.js"></script>
+
+<!-- ─── EXTERNAL JAVASCRIPT ─── -->
+<script src="script.js"></script>
 
 </body>
 </html>
