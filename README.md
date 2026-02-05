@@ -2,8 +2,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://lakshmi0698.github.io/personal-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-lakshmi0698-blue)](https://github.com/lakshmi0698)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/lakshmi-lavanya-n-35a66b289/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116)](https://leetcode.com/u/lakshmilavanya292/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/lakshmi-lavanya-597429259/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116)](https://leetcode.com/u/H2QkhZCrt5/)
 
 > Passionate AI/ML Engineering student specializing in Software Development, Data Structures, and Machine Learning Systems
 
@@ -15,9 +15,10 @@ I'm Lakshmi Lavanya N, an Artificial Intelligence and Machine Learning Engineeri
 - 📍 **Location**: Bangalore, Karnataka, India
 - 📧 **Email**: lakshmilavanya292@gmail.com
 - 📱 **Phone**: +91 7795952603
-- 💼 **LinkedIn**: [lakshmi-lavanya-n-35a66b289](https://www.linkedin.com/in/lakshmi-lavanya-n-35a66b289/)
-- 💻 **GitHub**: [lakshmi0698](https://github.com/lakshmi0698)
-- 🧩 **LeetCode**: [lakshmilavanya292](https://leetcode.com/u/lakshmilavanya292/)
+- 💼 **LinkedIn**: [Lakshmi Lavanya N](https://www.linkedin.com/in/lakshmi-lavanya-597429259/)
+- 💻 **GitHub**: [GitHub – lakshmi0698](https://github.com/lakshmi0698)
+- 🧩 **LeetCode**: [LeetCode – Lakshmi Lavanya](https://leetcode.com/u/H2QkhZCrt5/)
+
 
 ## 🚀 Featured Projects
 
@@ -138,20 +139,16 @@ Visit my portfolio: **[https://lakshmi0698.github.io/personal-portfolio/](https:
 I'm always interested in connecting with fellow developers, discussing AI/ML projects, or exploring collaboration opportunities!
 
 - 📧 **Email**: [lakshmilavanya292@gmail.com](mailto:lakshmilavanya292@gmail.com)
-- 💼 **LinkedIn**: [lakshmi-lavanya-n-35a66b289](https://www.linkedin.com/in/lakshmi-lavanya-n-35a66b289/)
-- 🐙 **GitHub**: [@lakshmi0698](https://github.com/lakshmi0698)
-- 🧩 **LeetCode**: [lakshmilavanya292](https://leetcode.com/u/lakshmilavanya292/)
+- 💼 **LinkedIn**: [Lakshmi Lavanya N](https://www.linkedin.com/in/lakshmi-lavanya-597429259/)
+- 🐙 **GitHub**: [GitHub – lakshmi0698](https://github.com/lakshmi0698)
+- 🧩 **LeetCode**: [LeetCode – Lakshmi Lavanya](https://leetcode.com/u/H2QkhZCrt5/)
 - 📞 **Phone**: +91 7795952603
 
 ## 📄 Resume
 
 Download my latest resume: [📥 Resume.pdf](assets/resume.pdf)
 
-## 📊 GitHub Stats
 
-![Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmi0698&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi0698&layout=compact&theme=radical)
 
 ## 💡 Professional Summary
 
